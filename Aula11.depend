@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1688848073 source:c:\users\leona\documents\ufjf\ed\ex11 - arvore binaria de busca\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1688846870 c:\users\leona\documents\ufjf\ed\ex11 - arvore binaria de busca\arvbinbusca.h
+	"NoArv.h"
+
+1529888100 c:\users\leona\documents\ufjf\ed\ex11 - arvore binaria de busca\noarv.h
+
+1688847822 source:c:\users\leona\documents\ufjf\ed\ex11 - arvore binaria de busca\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
